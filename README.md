@@ -37,7 +37,7 @@ Facial emotion recognition is a technology that identifies and processes human e
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/facial-emotion-recognition.git
+    git clone https://github.com/kunal654/facial-emotion-recognition.git
     cd facial-emotion-recognition
     ```
 
